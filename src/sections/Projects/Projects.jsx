@@ -23,7 +23,7 @@ function Projects() {
         />
         <ProjectCard
           src={heroImg}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link=">Deployed Portfolio website Link: https://portfolio-shrestha.vercel.app/"
           h3="Portfolio"
           p="HTML | CSS | JS | ReactJS"
         />
