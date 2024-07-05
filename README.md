@@ -1,5 +1,8 @@
 # React + Vite
 
+>Deployed Portfolio website Link: https://portfolio-shrestha.vercel.app/
+
+Create Vite+ReactJS App by command: "npm create vite@latest ."
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
