@@ -1,6 +1,5 @@
 # React + Vite
 
->Deployed Portfolio website Link: https://portfolio-shrestha.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
